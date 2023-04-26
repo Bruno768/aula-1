@@ -16,7 +16,7 @@ echo 'a: ['. (1==0) . ']<br />';
 echo 'a: ['. (1==='1') . ']<br />';
 $idade = 30;
 echo 'e: ['. "$idade" . ']<br />';
-
+///
 $saldo = 10;
 if ($saldo<100){
     $deposito = 1000;
